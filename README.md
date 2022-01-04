@@ -1,4 +1,4 @@
-# AgroGrow-
+# AgroGrow
 Java micro project
 
 ## Abstract
